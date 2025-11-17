@@ -1,4 +1,3 @@
-
 {
   "users": [
     {
@@ -7,6 +6,35 @@
       "displayName": "diddy",
       "reason": "Inappropriate behavior",
       "reportCount": 0
+    },
+    {
+      "userId": "8439201944",
+      "username": "skyline24",
+      "displayName": "skyy",
+      "reason": "Harassment",
+      "reportCount": 2
+    },
+    {
+      "userId": "1928840021",
+      "username": "luna_dev",
+      "displayName": "Luna",
+      "reason": "Spamming",
+      "reportCount": 1
+    },
+    {
+      "userId": "5529184472",
+      "username": "ghostbyte",
+      "displayName": "Ghost",
+      "reason": "Self-promotion",
+      "reportCount": 3
+    },
+    {
+      "userId": "7772940033",
+      "username": "NovaStar",
+      "displayName": "Nova",
+      "reason": "TOS violation",
+      "reportCount": 5
     }
   ]
 }
+
