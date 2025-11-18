@@ -13,8 +13,12 @@
       "username": "I_StrawBearE",
       "displayName": "Unknown",
       "reason": "Sexual Content / Nudity",
-      "reportCount": 0,
-      "lastUpdated": "2025-11-18T03:24:04.047Z"
+      "reportCount": 2,
+      "lastUpdated": "2025-11-18T22:40:26.364Z",
+      "reportTypes": [
+        "other"
+      ],
+      "severity": "low"
     },
     {
       "userId": "5182890985",
