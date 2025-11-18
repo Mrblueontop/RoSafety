@@ -1,27 +1,27 @@
 {
   "users": [
     {
-      "userId": "3596868769",
-      "username": "melijahase",
-      "displayName": "diddy",
-      "reason": "Inappropriate behavior",
-      "reportCount": 3,
+      "userId": "79373",
+      "username": "carmie",
+      "displayName": "carmie",
+      "reason": "🔞 Sexual Content / Nudity",
+      "reportCount": 0,
       "lastUpdated": "2025-11-18T03:26:22.571Z"
     },
     {
-      "userId": "8439201944",
-      "username": "skyline24",
-      "displayName": "skyy",
-      "reason": "Harassment",
-      "reportCount": 12,
+      "userId": "542093231",
+      "username": "I_StrawBearE",
+      "displayName": "Unknown",
+      "reason": "🔞 Sexual Content / Nudity",
+      "reportCount": 0,
       "lastUpdated": "2025-11-18T03:24:04.047Z"
     },
     {
-      "userId": "1928840021",
-      "username": "luna_dev",
-      "displayName": "Luna",
-      "reason": "Spamming",
-      "reportCount": 2,
+      "userId": "5182890985",
+      "username": "Baller_12736",
+      "displayName": "map",
+      "reason": "🚨 Predator / Grooming",
+      "reportCount": 0,
       "lastUpdated": "2025-11-18T03:35:28.783Z",
       "reportTypes": [
         "other"
@@ -29,19 +29,35 @@
       "severity": "low"
     },
     {
-      "userId": "5529184472",
-      "username": "ghostbyte",
-      "displayName": "Ghost",
-      "reason": "Self-promotion",
-      "reportCount": 69,
+      "userId": "9953704109",
+      "username": "MAPisTHEbest_tt",
+      "displayName": "mAp",
+      "reason": "🚨 Predator / Grooming",
+      "reportCount": 0,
       "lastUpdated": "2025-11-18T03:21:30.030Z"
     },
     {
-      "userId": "7772940033",
-      "username": "NovaStar",
-      "displayName": "Nova",
-      "reason": "TOS violation",
-      "reportCount": 5
+      "userId": "9964294776",
+      "username": "M4P_AsTR0",
+      "displayName": "Map_Astro",
+      "reason": "🚨 Predator / Grooming",
+      "reportCount": 0
     }
+    {
+      "userId": "9104097095",
+      "username": "r0pe_bxnny",
+      "displayName": "tcclarpingkirkcel",
+      "reason": "🚨 Predator / Grooming",
+      "reportCount": 0
+    }
+    {
+      "userId": "3719661167",
+      "username": "Nemutidao",
+      "displayName": "Nemutidao",
+      "reason": "🔞 Sexual Content / Nudity",
+      "reportCount": 0
+    }
+    {
+
   ]
 }
