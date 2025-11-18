@@ -21,7 +21,12 @@
       "username": "luna_dev",
       "displayName": "Luna",
       "reason": "Spamming",
-      "reportCount": 1
+      "reportCount": 2,
+      "lastUpdated": "2025-11-18T03:35:28.783Z",
+      "reportTypes": [
+        "other"
+      ],
+      "severity": "low"
     },
     {
       "userId": "5529184472",
