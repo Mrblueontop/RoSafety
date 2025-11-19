@@ -6,60 +6,119 @@
       "displayName": "carmie",
       "reason": "Sexual Content / Nudity",
       "reportCount": 0,
-      "lastUpdated": "2025-11-18T03:26:22.571Z"
+      "lastUpdated": "2025-11-18T03:26:22.571Z",
+      "severity": "medium",
+      "supportMessage": "Carmie has been accused of engaging in inappropriate sexual behavior on the platform and of operating as a Roblox-themed OF content creator. Reports claim that they showed little remorse regarding the potential exposure of minors to NSFW material. These allegations are based on publicly circulated posts.\nProof (source of allegation): https://x.com/RoCatchers/status/1980773473673769458"
     },
     {
       "userId": "542093231",
       "username": "I_StrawBearE",
       "displayName": "Unknown",
-      "reason": "Sexual Content / Nudity",
-      "reportCount": 2,
+      "reason": "Owned Sexual Assets / Nudity",
+      "reportCount": 0,
       "lastUpdated": "2025-11-18T22:40:26.364Z",
-      "reportTypes": [
-        "other"
-      ],
-      "severity": "low"
-    },
-    {
-      "userId": "5182890985",
-      "username": "Baller_12736",
-      "displayName": "map",
-      "reason": "Predator / Grooming",
-      "reportCount": 0,
-      "lastUpdated": "2025-11-18T03:35:28.783Z",
-      "reportTypes": [
-        "other"
-      ],
-      "severity": "low"
-    },
-    {
-      "userId": "9953704109",
-      "username": "MAPisTHEbest_tt",
-      "displayName": "mAp",
-      "reason": "Predator / Grooming",
-      "reportCount": 0,
-      "lastUpdated": "2025-11-18T03:21:30.030Z"
-    },
-    {
-      "userId": "9964294776",
-      "username": "M4P_AsTR0",
-      "displayName": "Map_Astro",
-      "reason": "Predator / Grooming",
-      "reportCount": 0
+      "reportTypes": ["other"],
+      "severity": "medium",
+      "supportMessage": "This user has been accused of possessing and using sexually suggestive assets on Roblox. Reports claim they have used multiple inappropriate avatars. These allegations are based on publicly circulated posts.\nProof (source of allegation): https://x.com/RoCatchers/status/1986310023275028720"
     },
     {
       "userId": "9104097095",
       "username": "r0pe_bxnny",
       "displayName": "tcclarpingkirkcel",
       "reason": "Predator / Grooming",
-      "reportCount": 0
+      "reportCount": 0,
+      "severity": "high-risk",
+      "supportMessage": "This report requires moderation review. Please ensure reports follow platform rules and include appropriate evidence."
     },
     {
       "userId": "3719661167",
       "username": "Nemutidao",
       "displayName": "Nemutidao",
       "reason": "Sexual Content / Nudity",
-      "reportCount": 0
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This user has been accused of sharing sexually explicit Roblox content with underage players. Reports claim she has outfits and avatars that allegedly depict inappropriate content. Allegedly, she has used these avatars to target other Roblox players. These claims are based on publicly circulated posts.\nProof (source of allegation): https://x.com/mmenndell40743/status/1985713852382650858"
+    },
+    {
+      "userId": "1598398018",
+      "username": "Parlophones",
+      "displayName": "Parlo",
+      "reason": "Predator / Grooming",
+      "reportCount": 0,
+      "severity": "high-risk",
+      "supportMessage": "This Roblox YouTuber has been accused of engaging in predatory activities on the platform. Reports claim they have used offensive language, including swearing and slurs. It is recommended that their profile be reviewed for potential risk and that appropriate action be considered.\nProof (source of allegation): https://x.com/Navyium/status/1989528928676188474"
+    },
+    {
+      "userId": "2576240278",
+      "username": "ketlad1",
+      "displayName": "bloodalloverme",
+      "reason": "Sexual Content / Nudity",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This user has been accused of using extremely inappropriate display names, including one allegedly stating he sells child predators. Reports claim that this is their main account, and that their previous account ('Isor') included a bio indicating that this account was their primary profile. It is also reported that the old account used the display name 'i_sellcp.' It is recommended that this user be reviewed for potential risk and that appropriate action be considered.\nProof (source of allegation): https://x.com/Robert_SK10R/status/1991195833639850062"
+    },
+    {
+      "userId": "8726482655",
+      "username": "MisterStealDidyBlud",
+      "displayName": "Didblud",
+      "reason": "Sexual Content / Nudity",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This user has been accused of participating in sexualized Roblox games and engaging in inappropriate actions toward other players. Some reports refer to him as the 'Diddy of Roblox' due to these alleged behaviors. It is recommended that this user’s activity be reviewed for potential risk and that appropriate action be considered.\nProof (source of allegation): https://x.com/sodajeep_/status/1989849021171863886"
+    },
+    {
+      "userId": "2061360423",
+      "username": "dreazy44",
+      "displayName": "Andre",
+      "reason": "Predator / Grooming",
+      "reportCount": 0,
+      "severity": "high-risk",
+      "supportMessage": "This Roblox user has been accused of offering money to a minor in exchange for unspecified activities. Reports claim that when the child attempted to walk away, the user continued to follow and pressure her. According to the reports, this user is still active on Roblox. Concerns have been raised about whether Roblox moderation has reviewed this case, as incidents like this can contribute to an unsafe environment for young players.\nProof (source of allegation): https://x.com/sheknowsheluvit/status/1988724858830876796"
+    },
+    {
+      "userId": "4926230591",
+      "username": "YeanneblZ",
+      "displayName": "Yeanne_O3O",
+      "reason": "Sexual Content / Nudity",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This Roblox player has been accused of using a sexually suggestive, partially unclothed avatar in soft-core–themed games such as 'XYZ Hangout.' Reports also state that the user was previously highlighted by a predator-catcher group known as Row Catchers. According to these reports, the player remains active on the platform and has not been banned as of the latest information.\nProof (source of allegation): https://x.com/Goonbusterz/status/1988049667301703808"
+    },
+    {
+      "userId": "2316258265",
+      "username": "Xynqrio",
+      "displayName": "Hetfield",
+      "reason": "Owned Sexual ASSETS",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This user has been accused of wearing a shirt that displayed an inappropriate phrase ('I love S-E-X') before the item was officially removed from the platform. Reports claim the shirt was visible to many young players in the game Mic Up. According to these reports, the user’s Roblox account did not face any action beyond the removal of the shirt and a reset of their avatar. Community members expressed concern and believe the situation requires further review.\nProof (source of allegation): https://x.com/i/communities/1918671256443830702"
+    },
+    {
+      "userId": "4011275553",
+      "username": "Infinity_weee",
+      "displayName": "Simply_Cuban",
+      "reason": "PDF Activities",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This user has been accused of sending highly inappropriate messages through Roblox’s in-game chat system. Reports claim that the user typed disturbing statements, including 'I love CP,' and allegedly admitted to being a child predator. According to these reports, the user has not been banned from the platform despite multiple community reports. Concerned players are requesting that the account be reviewed for potential risk and that appropriate action be considered.\nProof (source of allegation): https://x.com/omniblaze_/status/1965204742541607152/photo/1"
+    },
+    {
+      "userId": "2432263990",
+      "username": "Connorbawsome",
+      "displayName": "pookiebear",
+      "reason": "Owned Sexual ASSETS",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This Roblox user has been accused of using furry-themed sexual content within their avatar assets, which would violate Roblox’s Terms of Service if true. Reports also claim that the user sent inappropriate messages through Roblox’s chat system. According to these reports, no major action has been taken against the account, leading to concerns about platform safety. Community members believe that this user’s activity should be reviewed and that appropriate action should be considered.\nProof (source of allegation): https://x.com/Lucky_Hoka/status/1941995974970216710"
+    },
+    {
+      "userId": "1120632889",
+      "username": "Jmason908",
+      "displayName": "Aaron",
+      "reason": "Sexual Content / Nudity",
+      "reportCount": 0,
+      "severity": "medium",
+      "supportMessage": "This Roblox user has been accused of sending inappropriate messages via Discord to a Roblox player who is reportedly underage. Reports claim that the individual involved is 23 years old and allegedly attempted to initiate sexual activity with a minor. Due to character limits, further details are not included here. Community members are requesting that this user be reviewed and that appropriate action be considered.\nProof (source of allegation): https://x.com/PlamenBogutliev/status/1912578600814919697"
     }
   ]
 }
