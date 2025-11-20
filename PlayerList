@@ -17,7 +17,9 @@
       "reason": "Owned Sexual Assets / Nudity",
       "reportCount": 0,
       "lastUpdated": "2025-11-18T22:40:26.364Z",
-      "reportTypes": ["other"],
+      "reportTypes": [
+        "other"
+      ],
       "severity": "medium",
       "supportMessage": "This user has been accused of possessing and using sexually suggestive assets on Roblox. Reports claim they have used multiple inappropriate avatars. These allegations are based on publicly circulated posts.\nProof (source of allegation): https://x.com/RoCatchers/status/1986310023275028720"
     },
@@ -44,9 +46,10 @@
       "username": "Parlophones",
       "displayName": "Parlo",
       "reason": "Predator / Grooming",
-      "reportCount": 0,
-      "severity": "high-risk",
-      "supportMessage": "This Roblox YouTuber has been accused of engaging in predatory activities on the platform. Reports claim they have used offensive language, including swearing and slurs. It is recommended that their profile be reviewed for potential risk and that appropriate action be considered.\nProof (source of allegation): https://x.com/Navyium/status/1989528928676188474"
+      "reportCount": 2,
+      "severity": "medium",
+      "supportMessage": "This Roblox YouTuber has been accused of engaging in predatory activities on the platform. Reports claim they have used offensive language, including swearing and slurs. It is recommended that their profile be reviewed for potential risk and that appropriate action be considered.\nProof (source of allegation): https://x.com/Navyium/status/1989528928676188474",
+      "lastUpdated": "2025-11-20T00:24:06.554Z"
     },
     {
       "userId": "2576240278",
